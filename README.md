@@ -1,2 +1,6 @@
 # Github-class
-Let bring gitdown
+Let bring github down
+
+By Loggin together
+
+Changing again
